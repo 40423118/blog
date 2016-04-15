@@ -89,7 +89,7 @@ Author: 40423118
 
 &lt;a href="http://cms-nfuhouses.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
 
-&lt;a href="http://40423116.github.io/Blog/post/index.html"&gt;Pelican&lt;/a&gt;
+&lt;a href="http://40423118.github.io/Blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
 &lt;a href="http://wp-nfuhouses.rhcloud.com/"&gt;WordPress&lt;/a&gt;
 </t>
