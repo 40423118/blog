@@ -56,7 +56,8 @@ Author: kmol
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://40423118.github.io/blog"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://40423118.github.io/blog"&gt;http://cad-lab.github.io/manual&lt;/a&gt;
+</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
@@ -87,11 +88,11 @@ Author: 40423118
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cms-nfuhouses.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
+&lt;a href="https://cmsimply-steven0952747901.rhcloud.com/edit_page"&gt;CMSimply&lt;/a&gt;
 
-&lt;a href="http://40423118.github.io/Blog/post/index.html"&gt;Pelican&lt;/a&gt;
+&lt;a href="http://40423118.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
-&lt;a href="http://wp-nfuhouses.rhcloud.com/"&gt;WordPress&lt;/a&gt;
+&lt;a href="https://wp-steven0952747901.rhcloud.com/wp-admin/upload.php"&gt;WordPress&lt;/a&gt;
 </t>
 <t tx="leo.20160408095026.1"></t>
 <t tx="leo.20160408095046.1">@language python

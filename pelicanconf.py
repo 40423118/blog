@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = '40423118'
 SITENAME = '40423118 的網誌'
-SITEURL = 'http://40423118.github.io/Blog/'
+SITEURL = 'http://40423118.github.io/blog/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
