@@ -34,10 +34,11 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329125251.1" a="E"><vh>@clean template-20160329.md</vh>
+<v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh>
 <v t="leo.20160408101406.1"><vh>7</vh></v>
 </v>
 <v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh></v>
+<v t="leo.20160429001147.1"><vh>@clean admin-20160428.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -319,5 +320,46 @@ p.b = line1 + line2 + line3 + line4 + line5 + post_content + "\n"
 c.redraw() 
 g.es("資料已經取回")</t>
 <t tx="leo.20160408101406.1"></t>
+<t tx="leo.20160429001147.1">@language md
+Title: 40423118 網際內容管理 期中報告
+Category: 期中
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423118
+@others
+聽說要貼網址~
+
+wordpress網址~~ http://wp-steven0952747901.rhcloud.com/
+
+Github http://40423118.github.io/blog/post/
+
+CMSimply https://cmsimply-steven0952747901.rhcloud.com/sitemap
+
+1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
+
+&lt;font size='8' color='yellow' face='標楷體'&gt;[網路線](http://imgur.com/sVUNvka) &lt;/font&gt;
+
+&lt;font size='8' color='yellow' face='標楷體'&gt;[跳跳亂跳線](http://imgur.com/vwh2EKI) &lt;/font&gt;
+
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/aJX5R-SAja4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/Yj5Ar-cIfnw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
+
+3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
+
+http://wp-ladisai.rhcloud.com/wp-content/uploads/2016/04/video-1461289169-SD.mp4
+
+4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
+
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="https://cmsimply-steven0952747901.rhcloud.com/edit_page"&gt;CMSimply&lt;/a&gt;
+
+&lt;a href="http://40423118.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
+
+&lt;a href="https://wp-steven0952747901.rhcloud.com/wp-admin/upload.php"&gt;WordPress&lt;/a&gt;
+</t>
 </tnodes>
 </leo_file>
